@@ -1,0 +1,11 @@
+.form-control, .btn {
+  margin-top: 1%;
+}
+
+.img-thumbnail {
+  width: 20%;
+}
+
+.select_company {
+    appearance: auto  !important;
+}
