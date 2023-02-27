@@ -8,3 +8,7 @@ INSTRUCCIONES EJECUCION PROYECTO EN ENTORNO LOCAL
 7.	En la misma consola ejecutar el comando php artisan serve
 8.	En otra consola paralela con la misma ruta del proyecto => C:\wamp64\www\proyecto ejecutar el comando php artisan queue:work
 9.	Ingresar a la url http://127.0.0.1:8000/
+
+
+Repositorio Github: https://github.com/JulianaBobadilla/proyecto
+Tablero Trello: https://trello.com/invite/b/fNMYT228/ATTI270ed61b7659602ddd335cbd2fd1c87597D06812/pruebalaravel
